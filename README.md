@@ -1,23 +1,28 @@
-# Next.js + Tailwind CSS Example
+# NFT DROP 
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# Features 
 
-## Deploy your own
+* Users will be authenticated using Metamask 
+* Landing Page where they can show their NFT collection from Sanity
+* Mint NFTs listed on the thirdweb with real-time data being showed in the webpage 
+* Minted NFTs can be seen on the Opensea collection connected to their wallet which they sell, airdrop or trade
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+# Landing Page 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+![landing](https://user-images.githubusercontent.com/77283508/175477952-8a6496a5-efe5-4aee-85aa-86e88ababa8b.PNG)
 
-## How to use
+# Dashboard of each collection 
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+![collections](https://user-images.githubusercontent.com/77283508/175477945-73e74e1f-0bd6-4545-b99f-0fdd3f880935.PNG)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+# Opensea collection ( Minted NFTs will be visible here )
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![opensea](https://user-images.githubusercontent.com/77283508/175477940-4035565e-c35c-4454-aff4-ef48d79be173.PNG)
+
+# Third Web ( We batch upload the designs here )
+
+![third web](https://user-images.githubusercontent.com/77283508/175477938-6f9f9619-026c-4e6f-a45e-99ca9f3ad844.PNG)
+
+# Sanity Interface
+
+![sanity](https://user-images.githubusercontent.com/77283508/175477920-5555d2bf-8d5e-4383-9da8-16c01d973d8e.PNG)
