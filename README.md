@@ -26,3 +26,13 @@
 # Sanity Interface
 
 ![sanity](https://user-images.githubusercontent.com/77283508/175477920-5555d2bf-8d5e-4383-9da8-16c01d973d8e.PNG)
+
+## Tech Stack
+
+* Next
+* TypeScript 
+* Tailwind 
+* Sanity CMS
+* Third Web
+
+
